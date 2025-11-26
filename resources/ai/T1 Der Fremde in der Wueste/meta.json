@@ -1,0 +1,19 @@
+{
+  "name": "Der Fremde",
+  "description": "Das die der Fremde-KI dem Kingdom of Heavens Paket von Gadiat0r",
+  "author": "Gadiat0r",
+  "link": "",
+  "version": "1.2.2",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": true,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}
